@@ -13,7 +13,7 @@ function checkIfYExists(str) {                                          // Defin
         console.log("NO");                                              // If 'y' is not found, print "NO".
     }
 }
-checkIfYExists('Rishabh')                                               // Output is true
+checkIfYExists('Rishabh')                                               // Output is NO
 
 // 2. Write a function that finds a factorial of a number.  5! ==> 5 * 4 * 3 * 2 * 1
 // Example - 5! = 120 (Use a normal loop for this one.) // ForEach
